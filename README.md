@@ -2,7 +2,7 @@
 
 ## Descrição geral do projeto a ser desenvolvido
 
-O projeto FicticioBank ATM é um simulador de caixa eletrônico simples em Java. Ele permite que os usuários realizem operações bancárias básicas, como saque, depósito e transferência.
+O projeto FicticioBank ATM é um simulador de caixa eletrônico simples, com interface gráfica, em Java. Ele permite que os usuários realizem operações bancárias básicas, como saque, depósito e transferência.
 
 **Tecnologias**
 
@@ -35,5 +35,5 @@ A seguir, pode ser visto um resumo das funcionalidades da aplicação.
 
 Nessa fase, será realizada a a abstração dos requisitos que foram levantados na fase de elicitação de requisitos para uma modelagem, com base na UML.
 
-Para exemplificar as ações do sistema, usaremos diagramas de casos de uso.
+Para exemplificar as ações do sistema, usaremos um diagrama de casos de uso, que vamos produzir na ferramenta [Visual Paradigm Online]([url](https://online.visual-paradigm.com/pt/)https://online.visual-paradigm.com/pt/).
 
