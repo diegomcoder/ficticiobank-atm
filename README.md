@@ -27,3 +27,7 @@ O caixa eletrônico permite que os usuários realizem as seguintes operações:
 - `Transferência`: permite que o usuário transfira dinheiro de uma conta de sua titularidade para uma conta de terceiros.
 - `Extrato`: permite que o usuário visualize um extrato resumido de suas contas.
 - `Alteração de Senha`: permite que o usuário modifique a sua senha de acesso, se desejar.
+
+### Elicitação dos requisitos
+
+Nesta etapa foi redigido um documento que lista e especifica os requisitos da aplicação
