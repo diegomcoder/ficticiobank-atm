@@ -33,7 +33,15 @@ A seguir, pode ser visto um resumo das funcionalidades da aplicação.
 
 ### Modelagem de requisitos
 
-Nessa fase, será realizada a a abstração dos requisitos que foram levantados na fase de elicitação de requisitos para uma modelagem, com base na UML.
+Nessa fase, está sendo realizada a a abstração dos requisitos que foram levantados na fase de elicitação de requisitos para uma modelagem, com base na UML.
 
-Para exemplificar as ações do sistema, usaremos um diagrama de casos de uso, que vamos produzir na ferramenta [Visual Paradigm Online](https://online.visual-paradigm.com/pt/).
+Para exemplificar as ações do sistema, usamos um diagrama de casos de uso, que vamos produzir na ferramenta [Visual Paradigm Online](https://online.visual-paradigm.com/pt/).
+
+[Clique aqui](docs/diagrama-casos-uso.vpd) para acessar o arquivo de casos de uso da aplicação.
+
+Abaixo pode ser visto a imagem do diagrama.
+![diagrama-casos-uso vpd](https://github.com/diegomcoder/ficticiobank-atm/assets/74707450/741eee95-ba60-455f-9d72-f6a82172fdda)
+
+
+
 
