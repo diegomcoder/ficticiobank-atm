@@ -30,3 +30,10 @@ A seguir, pode ser visto um resumo das funcionalidades da aplicação.
 - **Saque**: Realização de saques de dinheiro de uma conta do usuário.
 - **Transferência**: Transferência de dinheiro entre contas bancárias do mesmo titular ou do titular para terceiros.
 - **Senha de acesso**: Alteração de senha de acesso ou desbloqueio pelo usuário.
+
+### Modelagem de requisitos
+
+Nessa fase, será realizada a a abstração dos requisitos que foram levantados na fase de elicitação de requisitos para uma modelagem, com base na UML.
+
+Para exemplificar as ações do sistema, usaremos diagramas de casos de uso.
+
