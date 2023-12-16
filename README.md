@@ -22,7 +22,7 @@ A seguir, são descritas as bibliotea utilizadas.
 
 Nesta etapa foi redigido um documento que lista e especifica os requisitos da aplicação.
 
-[Clique aqui](docs/documento-elicitacao-requisitos.pdf) para acessar o documento.
+[Clique aqui](docs/requirements-elicitation/documento-elicitacao-requisitos.pdf) para acessar o documento.
 
 A seguir, pode ser visto um resumo das funcionalidades da aplicação.
 - **Extrato**: Visualização do extrato resumido das contas bancárias do usuário.
