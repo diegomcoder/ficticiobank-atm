@@ -37,10 +37,10 @@ Nessa fase, está sendo realizada a a abstração dos requisitos que foram levan
 
 Para exemplificar as ações do sistema, usamos um diagrama de casos de uso, que vamos produzir na ferramenta [Draw.io](https://www.draw.io/).
 
-[Arquivo diagrama-casos-uso.svg](docs/modelagem/diagrama-casos-uso.svg)
+[Arquivo diagrama-casos-uso.svg](docs/modeling/usecase/diagrama-casos-uso.svg)
 
 Abaixo pode ser visto a imagem do diagrama.
-![diagrama-casos-uso vpd](docs/modelagem/diagrama-casos-uso.jpg)
+![diagrama-casos-uso vpd](docs/modeling/usecase/diagrama-casos-uso.jpg)
 
 
 
