@@ -6,9 +6,9 @@ O projeto FicticioBank ATM é um simulador de caixa eletrônico simples, com int
 
 **Tecnologias**
 
-O projeto é implementado na linguagem **Java** e com o gerenciador de dependências **Maven**.
+O projeto será implementado na linguagem **Java** com o gerenciador de dependências **Maven**.
 
-A seguir, são descritas as bibliotea utilizadas.
+A seguir, são descritas as bibliotecas que provavelmente serão utilizadas.
 
 **Dependências**
 - **h2**: banco de dados relacional em memória leve e fácil de usar.
@@ -22,7 +22,7 @@ A seguir, são descritas as bibliotea utilizadas.
 
 Nesta etapa foi redigido um documento que lista e especifica os requisitos da aplicação.
 
-[Clique aqui](docs/documento-elicitacao-requisitos.pdf) para acessar o documento.
+[Clique aqui](docs/requirements-elicitation/documento-elicitacao-requisitos.pdf) para acessar o documento.
 
 A seguir, pode ser visto um resumo das funcionalidades da aplicação.
 - **Extrato**: Visualização do extrato resumido das contas bancárias do usuário.
@@ -37,10 +37,10 @@ Nessa fase, está sendo realizada a a abstração dos requisitos que foram levan
 
 Para exemplificar as ações do sistema, usamos um diagrama de casos de uso, que vamos produzir na ferramenta [Draw.io](https://www.draw.io/).
 
-[Arquivo diagrama-casos-uso.svg](docs/modelagem/diagrama-casos-uso.svg)
+[Arquivo diagrama-casos-uso.svg](docs/modeling/usecase/diagrama-casos-uso.svg)
 
 Abaixo pode ser visto a imagem do diagrama.
-![diagrama-casos-uso vpd](docs/modelagem/diagrama-casos-uso.jpg)
+![diagrama-casos-uso vpd](docs/modeling/usecase/diagrama-casos-uso.jpg)
 
 
 
