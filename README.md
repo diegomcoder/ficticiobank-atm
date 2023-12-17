@@ -6,9 +6,9 @@ O projeto FicticioBank ATM é um simulador de caixa eletrônico simples, com int
 
 **Tecnologias**
 
-O projeto é implementado na linguagem **Java** e com o gerenciador de dependências **Maven**.
+O projeto será implementado na linguagem **Java** com o gerenciador de dependências **Maven**.
 
-A seguir, são descritas as bibliotea utilizadas.
+A seguir, são descritas as bibliotecas que provavelmente serão utilizadas.
 
 **Dependências**
 - **h2**: banco de dados relacional em memória leve e fácil de usar.
