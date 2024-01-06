@@ -13,7 +13,7 @@ A seguir, são descritas as bibliotecas que provavelmente serão utilizadas.
 **Dependências**
 - **h2**: banco de dados relacional em memória leve e fácil de usar.
 - **junit-jupiter-api**: para escrevermos testes JuNIT 5.
-- **lombok**: para usarmos atotations e gerar automaticamente códigos Java comuns.
+- **lombok**: para usarmos anotations e gerar automaticamente códigos Java comuns.
 
 
 ## Etapas do Desenvolvimento do Projeto:
